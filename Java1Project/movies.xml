@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<moviesarchive>
+    <movies>
+        <movie id="1">
+            <title>Autocesta spasa</title>
+            <originalName>Paradise Highway</originalName>
+            <length>115</length>
+            <link>https://www.blitz-cinestar.hr/root/autocesta-spasa/8268//1</link>
+            <director id="1">
+                <personname>Anna Gutto</personname>
+            </director>
+            <actors>
+                <actor id="32">
+                    <personname>Juliette Binoche</personname>
+                </actor>
+            </actors>
+            <genre>akcija, krimi</genre>
+            <description>Sally (Juliette Binoche) je vozačica kamiona koja živi za tri stvari: sebe, cestu i svog zatvorenog brata Dennisa (Frank Grillo). Ta povezanost brata i sestre prouzročila je njezinu umiješanost u krijumčarenje ilegalnog tereta kako bi spasila brata o</description>
+            <picturePath>assets\d2e2d6a3-e537-448a-bc46-6bbc818db1f9.jpg</picturePath>
+            <inCinemaFrom>4.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="2">
+            <title>Autoput spasa</title>
+            <originalName>Paradise Highway</originalName>
+            <length>115</length>
+            <link>https://www.blitz-cinestar.hr/root/autoput-spasa/8254//1</link>
+            <director id="1">
+                <personname>Anna Gutto</personname>
+            </director>
+            <actors>
+                <actor id="32">
+                    <personname>Juliette Binoche</personname>
+                </actor>
+            </actors>
+            <genre>akcija</genre>
+            <description>Seli (Žilijet Binoš) je ženski vozač kamiona koja živi za tri stvari: sebe, put i svog zatvorenog brata Denisa (Frenk Grilo). Ta povezanost brata i sestre prouzrokovala je je njenu umešanost u krijumčarenje ilegalnog tereta kako bi spasila brata od z</description>
+            <picturePath>assets\de47ae81-d3e0-462f-b19b-b3b96daf37fc.jpg</picturePath>
+            <inCinemaFrom>4.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="3">
+            <title>Belfast</title>
+            <originalName>Belfast</originalName>
+            <length>98</length>
+            <link>https://www.blitz-cinestar.hr/root/belfast/8247//1</link>
+            <director id="2">
+                <personname>Kenneth Branagh</personname>
+            </director>
+            <actors>
+                <actor id="33">
+                    <personname>Caitríona Balfe</personname>
+                </actor>
+            </actors>
+            <genre>drama</genre>
+            <description>Život radničke klase u Belfastu 1960-ih, vojni sukobi, prve simpatije, glazba i filmovi - neki su od glavnih motiva u ovoj poluautobiografskoj priči filmaša Kennetha Branagha.&lt;br /&gt;
+Ovim ljubavnim pismom rodnom gradu Branagh je osvojio svog prvog zla</description>
+            <picturePath>assets\e2b61db3-73ce-499b-a524-3e81ae0a41c3.jpg</picturePath>
+            <inCinemaFrom>4.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="4">
+            <title>Brzina metka</title>
+            <originalName>Bullet Train</originalName>
+            <length>126</length>
+            <link>https://www.blitz-cinestar.hr/root/brzina-metka/8233//1</link>
+            <director id="3">
+                <personname>David Leitch</personname>
+            </director>
+            <actors>
+                <actor id="34">
+                    <personname>Brad Pitt</personname>
+                </actor>
+            </actors>
+            <genre>akcija</genre>
+            <description>U filmu &lt;em&gt;Brzina Metka&lt;/em&gt; Bred Pit se pojavljuje kao Bubamara - baksuzni profesionalni ubica odlučan da ovog puta na mirniji način obavi svoj posao budući da je previše prethodnih pokušaja pošlo po zlu. Sudbina, kako to obično biva, ima druge pla</description>
+            <picturePath>assets\ee472972-a006-463d-a23f-9ab8a59301c1.jpg</picturePath>
+            <inCinemaFrom>4.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="5">
+            <title>Brzina metka</title>
+            <originalName>Bullet Train</originalName>
+            <length>126</length>
+            <link>https://www.blitz-cinestar.hr/root/brzina-metka/8235//1</link>
+            <director id="3">
+                <personname>David Leitch</personname>
+            </director>
+            <actors>
+                <actor id="34">
+                    <personname>Brad Pitt</personname>
+                </actor>
+            </actors>
+            <genre>akcija</genre>
+            <description>U filmu &lt;em&gt;Brzina metka&lt;/em&gt; Brad Pitt glumi Bubamaru (Ladybug), nesretnog ubojicu koji je odlučio obavljati svoj posao na mirniji način nakon što su neke misije pošle po zlu. Ipak, sudbina može imati drugačije planove jer Bubamaru nova misija dovod</description>
+            <picturePath>assets\5b99594e-603e-4792-a327-9220ba9f1527.jpg</picturePath>
+            <inCinemaFrom>4.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="6">
+            <title>Brzina metka 4DX</title>
+            <originalName>Bullet Train 4DX</originalName>
+            <length>126</length>
+            <link>https://www.blitz-cinestar.hr/root/brzina-metka-4dx/8236//1</link>
+            <director id="3">
+                <personname>David Leitch</personname>
+            </director>
+            <actors>
+                <actor id="34">
+                    <personname>Brad Pitt</personname>
+                </actor>
+            </actors>
+            <genre>akcija</genre>
+            <description>U filmu &lt;em&gt;Brzina metka&lt;/em&gt; Brad Pitt glumi Bubamaru (Ladybug), nesretnog ubojicu koji je odlučio obavljati svoj posao na mirniji način nakon što su neke misije pošle po zlu. Ipak, sudbina može imati drugačije planove jer Bubamaru nova misija dovod</description>
+            <picturePath>assets\5f3bbbe9-3d0b-4a39-8427-d7eae0fb47f1.jpg</picturePath>
+            <inCinemaFrom>4.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="7">
+            <title>Brzina metka 4DX</title>
+            <originalName>Bullet Train 4DX</originalName>
+            <length>126</length>
+            <link>https://www.blitz-cinestar.hr/root/brzina-metka-4dx/8234//1</link>
+            <director id="3">
+                <personname>David Leitch</personname>
+            </director>
+            <actors>
+                <actor id="34">
+                    <personname>Brad Pitt</personname>
+                </actor>
+            </actors>
+            <genre>akcija</genre>
+            <description>U filmu &lt;em&gt;Brzina Metka&lt;/em&gt; Bred Pit se pojavljuje kao Bubamara - baksuzni profesionalni ubica odlučan da ovog puta na mirniji način obavi svoj posao budući da je previše prethodnih pokušaja pošlo po zlu. Sudbina, kako to obično biva, ima druge pla</description>
+            <picturePath>assets\49471512-dec8-4345-9d03-0033b613521b.jpg</picturePath>
+            <inCinemaFrom>4.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="8">
+            <title>100% vuk - sinh</title>
+            <originalName>100% Wolf</originalName>
+            <length>96</length>
+            <link>https://www.blitz-cinestar.hr/root/100-vuk-sinh/8252//1</link>
+            <director id="4">
+                <personname>Alexs Stadermann</personname>
+            </director>
+            <actors/>
+            <genre>animirani</genre>
+            <description>Ovo je priča o 100% vuku Frediju, nasledniku ponosne porodične loze vukodlaka. Uveren da će postati najstrašniji vukodlak ikad, Fredi ostaje u šoku kada na svoj 14. rođendan njegova prva bitka pođe po zlu, pretvarajući ga u divlju pudlicu. Stariji čl</description>
+            <picturePath>assets\ae071059-07c1-40a2-9cf3-ec4401d544d9.jpg</picturePath>
+            <inCinemaFrom>11.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="9">
+            <title>Ljeto kada sam naučila letjeti</title>
+            <originalName>Ljeto kada sam naučila letjeti</originalName>
+            <length>89</length>
+            <link>https://www.blitz-cinestar.hr/root/ljeto-kada-sam-naucila-letjeti/8304//1</link>
+            <director id="5">
+                <personname>Radivoje Andrić</personname>
+            </director>
+            <actors>
+                <actor id="35">
+                    <personname>Klara Hrvanović</personname>
+                </actor>
+            </actors>
+            <genre>obiteljski</genre>
+            <description>‘’Ljeto kada sam naučila letjeti“ je nježna priča o odrastanju i pomirenju.&lt;br /&gt;
+Dvanaestogodišnja Sofija (Klara Hrvanović) mašta o kampiranju s ekipom i svom prvom poljupcu. Ipak, nema izbora i mora ljetovanje provesti u trošnoj obiteljskoj kući na</description>
+            <picturePath>assets\38c98f46-cb9f-4cb6-bfe0-c87a0b83f338.jpg</picturePath>
+            <inCinemaFrom>11.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="10">
+            <title>Mesto usijanja</title>
+            <originalName>Hot Seat</originalName>
+            <length>99</length>
+            <link>https://www.blitz-cinestar.hr/root/mesto-usijanja/8253//1</link>
+            <director id="6">
+                <personname>James Cullen Bressack</personname>
+            </director>
+            <actors>
+                <actor id="36">
+                    <personname>Mel Gibson</personname>
+                </actor>
+            </actors>
+            <genre>triler</genre>
+            <description>Bivši haker je primoran da provaljuje u bankarske institucije na visokom nivou, dok drugi čovek mora da pokuša da prodre u zgradu zarobljenu minama da bi mladića skinuo sa vruće stolice.&lt;/div&gt;</description>
+            <picturePath>assets\66619087-f810-42a5-ad5c-bead5bc0ff2e.jpg</picturePath>
+            <inCinemaFrom>11.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="11">
+            <title>Mjesto usijanja</title>
+            <originalName>Hot Seat</originalName>
+            <length>99</length>
+            <link>https://www.blitz-cinestar.hr/root/mjesto-usijanja/8267//1</link>
+            <director id="6">
+                <personname>James Cullen Bressack</personname>
+            </director>
+            <actors>
+                <actor id="36">
+                    <personname>Mel Gibson</personname>
+                </actor>
+            </actors>
+            <genre>triler</genre>
+            <description>Film prati Wallacea Reeda, bivšeg veterana Odjela za protueksplozijsku zaštitu koji juri u gradski park u kojem je upravo eksplodirala bomba, stvarajući masovnu paniku. U obližnjoj se zgradi  nalazi superhaker Orlando. Sjedi na eksplozivnoj napravi p</description>
+            <picturePath>assets\cf719d15-b4ff-4c46-9f97-6adbb16c7d3c.jpg</picturePath>
+            <inCinemaFrom>11.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="12">
+            <title>Nikako</title>
+            <originalName>Nope</originalName>
+            <length>130</length>
+            <link>https://www.blitz-cinestar.hr/root/nikako/8244//1</link>
+            <director id="7">
+                <personname>Jordan Peele</personname>
+            </director>
+            <actors>
+                <actor id="37">
+                    <personname>Daniel Kaluuya</personname>
+                </actor>
+            </actors>
+            <genre>epski horor</genre>
+            <description>Dobitnik Oskara redatelj Jordan Peele je 2017. godine redefinirao horor žanr sa sada već kultnim filmom &lt;em&gt;Bježi!&lt;/em&gt;, a ovog ljeta će nas dobro prestrašiti njegov najnoviji režijski pothvat &lt;em&gt;Nikako (Nope).&lt;/em&gt;&lt;br /&gt;
+Priča filma je bazirana na </description>
+            <picturePath>assets\c84a529d-4cae-44b5-ab0f-d4eac5f2f5c3.jpg</picturePath>
+            <inCinemaFrom>11.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="13">
+            <title>Nikako 4DX</title>
+            <originalName>Nope 4DX</originalName>
+            <length>130</length>
+            <link>https://www.blitz-cinestar.hr/root/nikako-4dx/8246//1</link>
+            <director id="7">
+                <personname>Jordan Peele</personname>
+            </director>
+            <actors>
+                <actor id="37">
+                    <personname>Daniel Kaluuya</personname>
+                </actor>
+            </actors>
+            <genre>epski horor</genre>
+            <description>Dobitnik Oskara redatelj Jordan Peele je 2017. godine redefinirao horor žanr sa sada već kultnim filmom &lt;em&gt;Bježi!&lt;/em&gt;, a ovog ljeta će nas dobro prestrašiti njegov najnoviji režijski pothvat &lt;em&gt;Nikako (Nope).&lt;/em&gt;&lt;br /&gt;
+Priča filma je bazirana na </description>
+            <picturePath>assets\7b893311-218b-4640-a14b-543afcb223ae.jpg</picturePath>
+            <inCinemaFrom>11.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="14">
+            <title>Nikako IMAX</title>
+            <originalName>Nope IMAX</originalName>
+            <length>130</length>
+            <link>https://www.blitz-cinestar.hr/root/nikako-imax/8332//1</link>
+            <director id="7">
+                <personname>Jordan Peele</personname>
+            </director>
+            <actors>
+                <actor id="37">
+                    <personname>Daniel Kaluuya</personname>
+                </actor>
+            </actors>
+            <genre>epski horor</genre>
+            <description>Dobitnik Oskara redatelj Jordan Peele je 2017. godine redefinirao horor žanr sa sada već kultnim filmom &lt;em&gt;Bježi!&lt;/em&gt;, a ovog ljeta će nas dobro prestrašiti njegov najnoviji režijski pothvat &lt;em&gt;Nikako (Nope).&lt;/em&gt;&lt;br /&gt;
+Priča filma je bazirana na </description>
+            <picturePath>assets\c3ab9e4f-2be1-4fca-b053-869cbab79d0f.jpg</picturePath>
+            <inCinemaFrom>11.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="15">
+            <title>Tuljani specijalci - sink</title>
+            <originalName>Seal Team</originalName>
+            <length>98</length>
+            <link>https://www.blitz-cinestar.hr/root/tuljani-specijalci-sink/8269//1</link>
+            <director id="8">
+                <personname>Greig Cameron, Kane Croudace</personname>
+            </director>
+            <actors>
+                <actor id="38">
+                    <personname>Mladen Vujčić</personname>
+                </actor>
+            </actors>
+            <genre>animirani</genre>
+            <description>Nakon što je izgubio svoju najbolju prijateljicu, neustrašivi tuljan Quinn okuplja nestašnu ekipu koja će morskim psima uzvratiti udarac, angažirajući iskusnog ratnika Claggarta i njegov vojni um koji će mu pomoći u obuci njihovih prijatelja tuljana.</description>
+            <picturePath>assets\a61c80b4-76b0-4729-8e5b-aa140443ffda.jpg</picturePath>
+            <inCinemaFrom>11.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="16">
+            <title>Djevojka iz močvare</title>
+            <originalName>Where the Crawdads Sing</originalName>
+            <length>125</length>
+            <link>https://www.blitz-cinestar.hr/root/djevojka-iz-mocvare/8293//1</link>
+            <director id="9">
+                <personname>Olivia Newman</personname>
+            </director>
+            <actors>
+                <actor id="39">
+                    <personname>Daisy Edgar-Jones</personname>
+                </actor>
+            </actors>
+            <genre>drama, triler, misterij</genre>
+            <description>Ovog ljeta u kina dolazi zadivljujuća misterija snimljena prema bestseler romanu. Djevojka iz močvare priča priču o Kyi, napuštenoj djevojci koja je odrasla u opasnim močvarama Sjeverne Karoline. Godinama su glasine o djevojci iz močvare proganjale B</description>
+            <picturePath>assets\fe66a0b5-4ac0-4d40-8d76-8713133f0d7a.jpg</picturePath>
+            <inCinemaFrom>18.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="17">
+            <title>Najgora osoba na svetu</title>
+            <originalName>The Worst Person in the World</originalName>
+            <length>127</length>
+            <link>https://www.blitz-cinestar.hr/root/najgora-osoba-na-svetu/8300//1</link>
+            <director id="10">
+                <personname>Joachim Trier</personname>
+            </director>
+            <actors>
+                <actor id="40">
+                    <personname>Renate Reinsve</personname>
+                </actor>
+            </actors>
+            <genre>komedija, drama, romansa</genre>
+            <description>Hronika o četiri godine života Džuli, mlade žene koja plovi nemirnim vodama svog ljubavnog života i bori se da pronađe svoj put u karijeri, navodeći je da realno sagleda ko je ona zaista.</description>
+            <picturePath>assets\f1b0ef7e-123d-47ec-b73d-f960b47f4f96.jpg</picturePath>
+            <inCinemaFrom>18.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="18">
+            <title>Ne</title>
+            <originalName>Nope</originalName>
+            <length>130</length>
+            <link>https://www.blitz-cinestar.hr/root/ne/8211//1</link>
+            <director id="7">
+                <personname>Jordan Peele</personname>
+            </director>
+            <actors>
+                <actor id="37">
+                    <personname>Daniel Kaluuya</personname>
+                </actor>
+            </actors>
+            <genre>horor, SF</genre>
+            <description>Dobitnik Oskara Džordan Pil filmovima „BEŽI” I „MI” pomerio je granice i redefinisao moderni horor. Sada, on pretvara letnji film u novi košmar, u ekspanzivnom epskom hororu „NE”.&lt;br /&gt;
+Film ponovo spaja Pila sa dobitnikom Oskara Danijelom Kalujom, k</description>
+            <picturePath>assets\9b6bd757-93f1-4000-8a33-b92954d0a3b8.jpg</picturePath>
+            <inCinemaFrom>18.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="19">
+            <title>Ne 4DX</title>
+            <originalName>Nope 4DX</originalName>
+            <length>130</length>
+            <link>https://www.blitz-cinestar.hr/root/ne-4dx/8243//1</link>
+            <director id="7">
+                <personname>Jordan Peele</personname>
+            </director>
+            <actors>
+                <actor id="37">
+                    <personname>Daniel Kaluuya</personname>
+                </actor>
+            </actors>
+            <genre>horor, SF</genre>
+            <description>Dobitnik Oskara Džordan Pil filmovima „BEŽI” I „MI” pomerio je granice i redefinisao moderni horor. Sada, on pretvara letnji film u novi košmar, u ekspanzivnom epskom hororu „NE”.&lt;br /&gt;
+Film ponovo spaja Pila sa dobitnikom Oskara Danijelom Kalujom, k</description>
+            <picturePath>assets\d13ed51d-754a-4ba2-937c-9b0eabad528d.jpg</picturePath>
+            <inCinemaFrom>18.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="20">
+            <title>Slepi putnik</title>
+            <originalName>Stowaway</originalName>
+            <length>84</length>
+            <link>https://www.blitz-cinestar.hr/root/slepi-putnik/8257//1</link>
+            <director id="11">
+                <personname>Declan Whitebloom</personname>
+            </director>
+            <actors>
+                <actor id="41">
+                    <personname>Patrick Schwarzenegger</personname>
+                </actor>
+            </actors>
+            <genre>triler</genre>
+            <description>Uporna devojka se trudi da preživi na svojoj luksuznoj jahti, kada su u toku žurke trojica lopova upala i preuzela kormilo.</description>
+            <picturePath>assets\5efa1e4c-3848-4273-99d5-8778556303e1.jpg</picturePath>
+            <inCinemaFrom>18.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="21">
+            <title>Slijepi putnik</title>
+            <originalName>Stowaway</originalName>
+            <length>84</length>
+            <link>https://www.blitz-cinestar.hr/root/slijepi-putnik/8271//1</link>
+            <director id="11">
+                <personname>Declan Whitebloom</personname>
+            </director>
+            <actors>
+                <actor id="41">
+                    <personname>Patrick Schwarzenegger</personname>
+                </actor>
+            </actors>
+            <genre>triler</genre>
+            <description>Radnja se usredotočuje na upornu i problematičnu mladu ženu koja nasljeđuje luksuznu jahtu od svog otuđenog oca. Za jahtu su zainteresirani i kriminalci koji  upadaju na brod. Nesposobna pobjeći i zarobljena na jahti na otvorenom moru, plijen postaje</description>
+            <picturePath>assets\06099d5f-194a-4ec5-b044-5441f08abafe.jpg</picturePath>
+            <inCinemaFrom>18.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="22">
+            <title>Tamo gde rakovi pevaju</title>
+            <originalName>Where the Crawdads Sing</originalName>
+            <length>125</length>
+            <link>https://www.blitz-cinestar.hr/root/tamo-gde-rakovi-pevaju/8294//1</link>
+            <director id="9">
+                <personname>Olivia Newman</personname>
+            </director>
+            <actors>
+                <actor id="39">
+                    <personname>Daisy Edgar-Jones</personname>
+                </actor>
+            </actors>
+            <genre>drama, triler, misterija</genre>
+            <description>Ovog leta u bioskope dolazi zadivljujuća misterija snimljena prema bestseler romanu. ,,Tamo gde rakovi pevaju” priča priču o Kaji, napuštenoj devojci koja je odrasla u opasnim močvarama Severne Karoline. Godinama su glasine o devojci iz močvare proga</description>
+            <picturePath>assets\e2bcdb4f-3c78-4283-8336-1f71514aca90.jpg</picturePath>
+            <inCinemaFrom>18.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="23">
+            <title>Zvijer</title>
+            <originalName>Beast</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/zvijer/8248//1</link>
+            <director id="12">
+                <personname>Baltasar Kormákur</personname>
+            </director>
+            <actors>
+                <actor id="42">
+                    <personname>Idris Elba</personname>
+                </actor>
+            </actors>
+            <genre>triler</genre>
+            <description>Idris Elba glumi u najnapetijem trileru ovog ljeta čija priča prati obitelj koja postane lovina bijesnog lava.&lt;br /&gt;
+Elba glumi doktora Natea Danielsa, udovca koji svoje kćeri odvede na putovanje u Južnu Afriku nedugo nakon što je njihova majka premi</description>
+            <picturePath>assets\cf409629-f0a8-498d-bd9b-96a6ac79b7de.jpg</picturePath>
+            <inCinemaFrom>18.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="24">
+            <title>Zvijer 4DX</title>
+            <originalName>Beast 4DX</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/zvijer-4dx/8264//1</link>
+            <director id="12">
+                <personname>Baltasar Kormákur</personname>
+            </director>
+            <actors>
+                <actor id="42">
+                    <personname>Idris Elba</personname>
+                </actor>
+            </actors>
+            <genre>triler</genre>
+            <description>Idris Elba glumi u najnapetijem trileru ovog ljeta čija priča prati obitelj koja postane lovina bijesnog lava.&lt;br /&gt;
+Elba glumi doktora Natea Danielsa, udovca koji svoje kćeri odvede na putovanje u Južnu Afriku nedugo nakon što je njihova majka premi</description>
+            <picturePath>assets\dcecd7f9-eea9-462f-8c31-a0adb03b98ec.jpg</picturePath>
+            <inCinemaFrom>18.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="25">
+            <title>After: Posle srećnog kraja</title>
+            <originalName>After Ever Happy</originalName>
+            <length>119</length>
+            <link>https://www.blitz-cinestar.hr/root/after-posle-srecnog-kraja/8241//1</link>
+            <director id="13">
+                <personname>Castille Landon</personname>
+            </director>
+            <actors>
+                <actor id="43">
+                    <personname>Josephine Langford</personname>
+                </actor>
+            </actors>
+            <genre>romantična drama</genre>
+            <description>Dok se pojavljuje šokantna istina o porodicama para, dvoje ljubavnika otkrivaju da se ne razlikuju toliko jedno od drugog. Tesa više nije ona slatka, jednostavna, dobra devojka kakva je bila kada je upoznala Hardina - kao što je on okrutni, ćudljivi </description>
+            <picturePath>assets\d7c8f189-b158-4585-af06-efb6d011daee.jpg</picturePath>
+            <inCinemaFrom>25.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="26">
+            <title>Kašej: Kradljivac nevesti - sinh</title>
+            <originalName>Koshchey: Pokhititel nevest</originalName>
+            <length>76</length>
+            <link>https://www.blitz-cinestar.hr/root/kasej-kradljivac-nevesti-sinh/8340//1</link>
+            <director id="14">
+                <personname>Roman Artemyev</personname>
+            </director>
+            <actors/>
+            <genre>animirani</genre>
+            <description>Iz nekog razloga Kašej, večno mlad i uvek besprekorno obučen, ne može sebi da nađe odgovarajuću nevestu već tri stotine godina.&lt;em&gt; &lt;/em&gt;&lt;/div&gt;</description>
+            <picturePath>assets\571d5f09-b5e0-4364-99c0-3eaa8bc10c83.jpg</picturePath>
+            <inCinemaFrom>25.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="27">
+            <title>Morski pas ljudožder</title>
+            <originalName>Maneater</originalName>
+            <length>86</length>
+            <link>https://www.blitz-cinestar.hr/root/morski-pas-ljudozder/8270//1</link>
+            <director id="15">
+                <personname>Justin Lee</personname>
+            </director>
+            <actors>
+                <actor id="44">
+                    <personname>Shane West</personname>
+                </actor>
+            </actors>
+            <genre>horor, triler</genre>
+            <description>Nakon nesreće tijekom njihovog odmora na rajskom otoku, grupu prijatelja proganja veliki morski pas – ljudožder.</description>
+            <picturePath>assets\e4efb119-3020-41b8-b62d-1e9d8aabc9f9.jpg</picturePath>
+            <inCinemaFrom>25.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="28">
+            <title>Poslije svega: Zauvijek sretni</title>
+            <originalName>After Ever Happy</originalName>
+            <length>119</length>
+            <link>https://www.blitz-cinestar.hr/root/poslije-svega-zauvijek-sretni/8240//1</link>
+            <director id="13">
+                <personname>Castille Landon</personname>
+            </director>
+            <actors>
+                <actor id="43">
+                    <personname>Josephine Langford</personname>
+                </actor>
+            </actors>
+            <genre>ljubavna drama</genre>
+            <description>Ljubav Tesse i Hardina oduvijek je bila komplicirana, život im se pretvorio u vrtlog strasti, ljubavi i dramatičnih preokreta. Tvrdoglavo su se borili za ljubav, odbijajući poslušati čak i najdobronamjernije savjete, uvjereni da njihova ljubav ne pri</description>
+            <picturePath>assets\97e61a4e-1a40-494e-a1c1-2507616d03af.jpg</picturePath>
+            <inCinemaFrom>25.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="29">
+            <title>Zver</title>
+            <originalName>Beast</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/zver/8249//1</link>
+            <director id="12">
+                <personname>Baltasar Kormákur</personname>
+            </director>
+            <actors>
+                <actor id="42">
+                    <personname>Idris Elba</personname>
+                </actor>
+            </actors>
+            <genre>triler</genre>
+            <description>Ponekad je šuštanje u žbunju zaista čudovište.&lt;br /&gt;
+ &lt;br /&gt;
+U novom, uznemirujućem trileru Idris Elba (&lt;em&gt;Paklene ulice- Hobs i Šo, Odred otpisanih&lt;/em&gt;) glumi oca koga, zajedno sa njegove dve ćerke, progoni ogromni lav odmetnik, u nameri da dokaže</description>
+            <picturePath>assets\7cf58f43-bab5-4479-8225-0e4d27cc275d.jpg</picturePath>
+            <inCinemaFrom>25.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="30">
+            <title>Zver 4DX</title>
+            <originalName>Beast 4DX</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/zver-4dx/8265//1</link>
+            <director id="12">
+                <personname>Baltasar Kormákur</personname>
+            </director>
+            <actors>
+                <actor id="42">
+                    <personname>Idris Elba</personname>
+                </actor>
+            </actors>
+            <genre>triler</genre>
+            <description>Ponekad je šuštanje u žbunju zaista čudovište.&lt;br /&gt;
+ &lt;br /&gt;
+U novom, uznemirujućem trileru Idris Elba (&lt;em&gt;Paklene ulice- Hobs i Šo, Odred otpisanih&lt;/em&gt;) glumi oca koga, zajedno sa njegove dve ćerke, progoni ogromni lav odmetnik, u nameri da dokaže</description>
+            <picturePath>assets\b8765e6e-d98f-49b6-91b3-a168ce742145.jpg</picturePath>
+            <inCinemaFrom>25.8.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="31">
+            <title>Tri hiljade godina čežnje</title>
+            <originalName>Three Thousand Years of Longing</originalName>
+            <length>108</length>
+            <link>https://www.blitz-cinestar.hr/root/tri-hiljade-godina-ceznje/8256//1</link>
+            <director id="16">
+                <personname>George Miller</personname>
+            </director>
+            <actors>
+                <actor id="45">
+                    <personname>Tilda Swinton</personname>
+                </actor>
+            </actors>
+            <genre>drama, fantazija, romantični</genre>
+            <description>Usamljena naučnica, na putovanju u Istanbul, otkriva Džina koji joj nudi tri želje u zamenu za svoju slobodu.</description>
+            <picturePath>assets\9bd3d0a2-a5b4-448c-b94d-6932e9660e3d.jpg</picturePath>
+            <inCinemaFrom>1.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="32">
+            <title>Tri tisuće godina čežnje</title>
+            <originalName>Three Thousand Years of Longing</originalName>
+            <length>108</length>
+            <link>https://www.blitz-cinestar.hr/root/tri-tisuce-godina-ceznje/8333//1</link>
+            <director id="16">
+                <personname>George Miller</personname>
+            </director>
+            <actors>
+                <actor id="45">
+                    <personname>Tilda Swinton</personname>
+                </actor>
+            </actors>
+            <genre>drama, fantazija, romantični</genre>
+            <description>Uspješna, ali usamljena akademkinja, dr. Alithea Binnie zadovoljna je svojim životom i stvorenje je razuma. Na konferenciji u Istanbulu susreće Djina koji joj nudi tri želje u zamjenu za svoju slobodu. Ovo predstavlja dva problema. Prvo, doktorica su</description>
+            <picturePath>assets\8247e9ad-eab9-4634-ba31-84374fd96176.jpg</picturePath>
+            <inCinemaFrom>1.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="33">
+            <title>Vatreno srce - sink</title>
+            <originalName>Fireheart</originalName>
+            <length>92</length>
+            <link>https://www.blitz-cinestar.hr/root/vatreno-srce-sink/8272//1</link>
+            <director id="17">
+                <personname>Theodore Ty, Laurent Zeitoun</personname>
+            </director>
+            <actors/>
+            <genre>animirani</genre>
+            <description>Šesnaestogodišnja Georgia Nolan želi krenuti stopama svog oca i sanja o tome da bude prva vatrogaskinja na svijetu.&lt;br /&gt;
+Kad misteriozni piroman počne paliti seriju podmetnutih požara po Broadwayu, njujorški vatrogasci počinju misteriozno nestajati.</description>
+            <picturePath>assets\645fa694-f3a4-4693-b5fc-6aa7901169bf.jpg</picturePath>
+            <inCinemaFrom>1.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="34">
+            <title>Ajkula ljudožder</title>
+            <originalName>Maneater</originalName>
+            <length>86</length>
+            <link>https://www.blitz-cinestar.hr/root/ajkula-ljudozder/8255//1</link>
+            <director id="15">
+                <personname>Justin Lee</personname>
+            </director>
+            <actors>
+                <actor id="44">
+                    <personname>Shane West</personname>
+                </actor>
+            </actors>
+            <genre>akcija, triler, horor</genre>
+            <description>Nakon nesreće tokom njihovog odmora na rajskom ostrvu, grupu prijatelja uhodi velika ajkula.</description>
+            <picturePath>assets\07491eca-b41d-480a-b3fe-1d20d2a2e820.jpg</picturePath>
+            <inCinemaFrom>8.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="35">
+            <title>Ja sam Zlatan</title>
+            <originalName>I Am Zlatan</originalName>
+            <length>100</length>
+            <link>https://www.blitz-cinestar.hr/root/ja-sam-zlatan/8299//1</link>
+            <director id="18">
+                <personname>Jens Sjögren</personname>
+            </director>
+            <actors>
+                <actor id="46">
+                    <personname>Granit Rushiti</personname>
+                </actor>
+            </actors>
+            <genre>drama, sportski</genre>
+            <description>„Ja sam Zlatan“ filmska je priča o Zlatanu Ibrahimoviću odnosno o njegovom odrastanju u neuglednom predgrađu švedskog grada. Kao sin imigranata s Balkana, nogomet je Zlatanu predstavljao oslobođenje od teške zajednice u kojoj je živio, a tijekom koje</description>
+            <picturePath>assets\029c0b08-7546-4e29-bd63-15e5f440af71.jpg</picturePath>
+            <inCinemaFrom>8.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="36">
+            <title>Kung Fu Zohra</title>
+            <originalName>Kung Fu Zohra</originalName>
+            <length>100</length>
+            <link>https://www.blitz-cinestar.hr/root/kung-fu-zohra/8274//1</link>
+            <director id="19">
+                <personname>Mabrouk El Mechri</personname>
+            </director>
+            <actors>
+                <actor id="47">
+                    <personname>Sabrina Ouazani</personname>
+                </actor>
+            </actors>
+            <genre>akcija</genre>
+            <description>Uvjerena da će je razvod zauvijek odvojiti od kćeri, Zohra se ne može natjerati da napusti muža, unatoč njegovom nasilnom ponašanju. U tišini trpi njegove udarce, ali sve se mijenja kada upozna Chang Sue.&lt;br /&gt;
+Zohra je u početku zadovoljna svojim br</description>
+            <picturePath>assets\1e0dd19c-84a6-4d07-a0e1-94544ba5b5e3.jpg</picturePath>
+            <inCinemaFrom>8.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="37">
+            <title>Pad</title>
+            <originalName>Fall</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/pad/8260//1</link>
+            <director id="20">
+                <personname>Scott Mann</personname>
+            </director>
+            <actors>
+                <actor id="48">
+                    <personname>Grace Caroline Currey</personname>
+                </actor>
+            </actors>
+            <genre>triler</genre>
+            <description>Za najbolje drugarice Beki i Hanter, život se svodi na savladavanje strahova i pomeranje granica. Ali nakon što se popnu 2000 stopa do vrha udaljenog, napuštenog radio tornja, ostaju nasukane bez ikakve mogućnosti povratka na zemlju. Sada će njihove </description>
+            <picturePath>assets\9e140e2f-6692-4497-baa6-692cbf339ba9.jpg</picturePath>
+            <inCinemaFrom>15.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="38">
+            <title>Pad</title>
+            <originalName>Fall</originalName>
+            <length>107</length>
+            <link>https://www.blitz-cinestar.hr/root/pad/8336//1</link>
+            <director id="20">
+                <personname>Scott Mann</personname>
+            </director>
+            <actors>
+                <actor id="48">
+                    <personname>Grace Caroline Currey</personname>
+                </actor>
+            </actors>
+            <genre>triler</genre>
+            <description>Nakon što Dan pogine penjući se na Rocky Mountains, njegova djevojka Becky i njezina prijateljica Hunter odluče se popeti na golemi komunikacijski toranj, visok preko 600 metara, s kojeg žele baciti Danov pepeo. Na znatnoj udaljenosti od tla, kada di</description>
+            <picturePath>assets\74689664-7919-4ac3-92a6-256866effc6d.jpg</picturePath>
+            <inCinemaFrom>15.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="39">
+            <title>Dvostruka prijevara</title>
+            <originalName>Decision to Leave</originalName>
+            <length>138</length>
+            <link>https://www.blitz-cinestar.hr/root/dvostruka-prijevara/8301//1</link>
+            <director id="21">
+                <personname>Park Chan-wook</personname>
+            </director>
+            <actors>
+                <actor id="49">
+                    <personname>Tang Wei</personname>
+                </actor>
+            </actors>
+            <genre>drama</genre>
+            <description>Dobitnik nagrade za najbolju režiju na filmskom festivalu u Cannesu! Novi film velikog južnokorejskog redatelja Parka Chana Wooka kriminalistička je drama koja prati policijskog detektiva Hae-joona (Park Hae-il) pozvanog da istraži tajanstvenu smrt m</description>
+            <picturePath>assets\ac0f7a2a-7592-485a-bee1-aaa4e34a263a.jpg</picturePath>
+            <inCinemaFrom>22.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="40">
+            <title>Ne brini draga</title>
+            <originalName>Don’t Worry Darling</originalName>
+            <length>122</length>
+            <link>https://www.blitz-cinestar.hr/root/ne-brini-draga/8338//1</link>
+            <director id="22">
+                <personname>Olivia Wilde</personname>
+            </director>
+            <actors>
+                <actor id="50">
+                    <personname>Florence Pugh</personname>
+                </actor>
+            </actors>
+            <genre>psihološki triler</genre>
+            <description>Radnja filma se odvija tijekom pedesetih godina prošlog stoljeća gdje, u sklopu izoliranog korporacijskog grada u srcu kalifornijske pustinje, žive Alice i njezin suprug Jack. On, kao i svi ostali muškarci u gradu, radi za Franka, koji je rukovoditel</description>
+            <picturePath>assets\a174a877-26ff-4986-b4d1-42a88812475f.jpg</picturePath>
+            <inCinemaFrom>22.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="41">
+            <title>Ne brini, draga</title>
+            <originalName>Don’t Worry Darling</originalName>
+            <length>122</length>
+            <link>https://www.blitz-cinestar.hr/root/ne-brini-draga/8262//1</link>
+            <director id="22">
+                <personname>Olivia Wilde</personname>
+            </director>
+            <actors>
+                <actor id="50">
+                    <personname>Florence Pugh</personname>
+                </actor>
+            </actors>
+            <genre>triler</genre>
+            <description>Alis i Džek imaju sreće što žive u idealizovanoj zajednici „Viktorija“, eksperimentalnom kompanijskom gradu u kom žive muškarci koji rade za tajni projekat „Viktorija“ i njihove porodice. Društveni optimizam iz 1950-ih koji je zastupao njihov izvršni</description>
+            <picturePath>assets\48f074d7-c54a-41f7-b325-3dca49ed7f3d.jpg</picturePath>
+            <inCinemaFrom>22.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="42">
+            <title>Put oko sveta za 80 dana - sinh</title>
+            <originalName>Around the World in 80 Days</originalName>
+            <length>82</length>
+            <link>https://www.blitz-cinestar.hr/root/put-oko-sveta-za-80-dana-sinh/8261//1</link>
+            <director id="23">
+                <personname>Samuel Tourneux</personname>
+            </director>
+            <actors/>
+            <genre>animirani</genre>
+            <description>Paspartu je mlad i učeni marmozet koji sanja da postane istraživač. Jednog dana, on upoznaje Fileja, nepromišljenog i pohlepnog žabca, koji želi da se opkladi da će oploviti svet za 80 dana i zaradite 10 miliona školjki u tom procesu. Iskoristivši pr</description>
+            <picturePath>assets\acace856-de0e-46da-897d-4815d771fc91.jpg</picturePath>
+            <inCinemaFrom>22.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="43">
+            <title>Put oko svijeta za 80 dana - sink</title>
+            <originalName>Around the World in 80 Days</originalName>
+            <length>82</length>
+            <link>https://www.blitz-cinestar.hr/root/put-oko-svijeta-za-80-dana-sink/8337//1</link>
+            <director id="23">
+                <personname>Samuel Tourneux</personname>
+            </director>
+            <actors/>
+            <genre>animirani</genre>
+            <description>Simpatični minijaturni Passepartout je mladi znanstvenik koji oduvijek sanja o tome da postane veliki istraživač. Jednog dana, on se susreće s Phileasom, žapcem koji prihvaća okladu da će u 80 dana obići svijet. Iskoristivši životnu priliku u kojoj ć</description>
+            <picturePath>assets\f49a12ff-1a67-4796-96d4-e959d2d95bc2.jpg</picturePath>
+            <inCinemaFrom>22.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="44">
+            <title>Osmeh</title>
+            <originalName>Smile</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/osmeh/8331//1</link>
+            <director id="24">
+                <personname>Parker Finn</personname>
+            </director>
+            <actors>
+                <actor id="51">
+                    <personname>Sosie Bacon</personname>
+                </actor>
+            </actors>
+            <genre>horor</genre>
+            <description>Nakon što je bila svedok bizarnog, traumatičnog događaja u koji je bio umešan i jedan pacijent, doktorka Rouz Koter počinje da oseća zastrašujuće pojave koje ne može da objasni. Dok nezamislivi užas polako obuzima njen život, Rouz mora da se suoči sa</description>
+            <picturePath>assets\b292ff28-e6f7-40a2-9534-8767519bba20.jpg</picturePath>
+            <inCinemaFrom>29.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="45">
+            <title>Osmijeh</title>
+            <originalName>Smile</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/osmijeh/8339//1</link>
+            <director id="24">
+                <personname>Parker Finn</personname>
+            </director>
+            <actors>
+                <actor id="51">
+                    <personname>Sosie Bacon</personname>
+                </actor>
+            </actors>
+            <genre>horor</genre>
+            <description>Nakon što je bila svjedok bizarnog, traumatičnog događaja u koji je bio umiješan i jedan pacijent, doktorica Rose Cotter počinje osjećati zastrašujuće pojave koje ne može objasniti. Dok nezamislivi užas počinje obuzimati njezin život, Rose se mora su</description>
+            <picturePath>assets\fd06b10f-4d30-46a7-9206-f41ed38075ff.jpg</picturePath>
+            <inCinemaFrom>29.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="46">
+            <title>The Good House</title>
+            <originalName>The Good House</originalName>
+            <length>114</length>
+            <link>https://www.blitz-cinestar.hr/root/the-good-house/8263//1</link>
+            <director id="25">
+                <personname>Maya Forbes, Wallace Wolodarsky</personname>
+            </director>
+            <actors>
+                <actor id="52">
+                    <personname>Sigourney Weaver</personname>
+                </actor>
+            </actors>
+            <genre>komedija, drama</genre>
+            <description>Život agentkinje za nekretnine u Novoj Engleskoj Hildi Gud počinje da se raspliće kada se ponovo poveže sa svojim starim iskrama iz Njujorka.&lt;br /&gt;
+Zasnovano na knjizi The Good House spisateljice En Liri.&lt;/div&gt;</description>
+            <picturePath>assets\3141b7d3-0488-46b8-8cfc-2296bd9d8359.jpg</picturePath>
+            <inCinemaFrom>29.9.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="47">
+            <title>Black Adam</title>
+            <originalName>Black Adam</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/black-adam/8275//1</link>
+            <director id="26">
+                <personname>Jaume Collet-Serra</personname>
+            </director>
+            <actors>
+                <actor id="53">
+                    <personname>Dwayne Johnson</personname>
+                </actor>
+            </actors>
+            <genre>akcija, SF</genre>
+            <description>DC i Warner Bros. predstavljaju novog antiheroja čiju će glavnu ulogu preuzeti legendarni The Rock. Black Adam je Johnsonov veliki projekt koji svaki glumac doživi jednom u životu.&lt;br /&gt;
+Gotovo 5.000 godina nakon što je dobio sve moći egipatskih bogo</description>
+            <picturePath>assets\3606dfd2-935d-4366-af41-83fd435f3ce8.jpg</picturePath>
+            <inCinemaFrom>20.10.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="48">
+            <title>Black Adam 4DX</title>
+            <originalName>Black Adam 4DX</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/black-adam-4dx/8276//1</link>
+            <director id="26">
+                <personname>Jaume Collet-Serra</personname>
+            </director>
+            <actors>
+                <actor id="53">
+                    <personname>Dwayne Johnson</personname>
+                </actor>
+            </actors>
+            <genre>akcija, SF</genre>
+            <description>DC i Warner Bros. predstavljaju novog antiheroja čiju će glavnu ulogu preuzeti legendarni The Rock. Black Adam je Johnsonov veliki projekt koji svaki glumac doživi jednom u životu.&lt;br /&gt;
+Gotovo 5.000 godina nakon što je dobio sve moći egipatskih bogo</description>
+            <picturePath>assets\07d49fb5-a1ca-4bc3-a99b-52297003ecb7.jpg</picturePath>
+            <inCinemaFrom>20.10.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="49">
+            <title>Black Adam IMAX</title>
+            <originalName>Black Adam IMAX</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/black-adam-imax/8277//1</link>
+            <director id="26">
+                <personname>Jaume Collet-Serra</personname>
+            </director>
+            <actors>
+                <actor id="53">
+                    <personname>Dwayne Johnson</personname>
+                </actor>
+            </actors>
+            <genre>akcija, SF</genre>
+            <description>DC i Warner Bros. predstavljaju novog antiheroja čiju će glavnu ulogu preuzeti legendarni The Rock. Black Adam je Johnsonov veliki projekt koji svaki glumac doživi jednom u životu.&lt;br /&gt;
+Gotovo 5.000 godina nakon što je dobio sve moći egipatskih bogo</description>
+            <picturePath>assets\76996edf-875f-4ce2-8164-37d58b5241d1.jpg</picturePath>
+            <inCinemaFrom>20.10.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="50">
+            <title>Crni Adam</title>
+            <originalName>Black Adam</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/crni-adam/8287//1</link>
+            <director id="26">
+                <personname>Jaume Collet-Serra</personname>
+            </director>
+            <actors>
+                <actor id="53">
+                    <personname>Dwayne Johnson</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura, SF</genre>
+            <description>DC i Warner Bros. predstavljaju novog antiheroja čiju će glavnu ulogu preuzeti legendarni The Rock. Crni Adam je Džonsonov veliki projekt koji svaki glumac doživi jednom u životu.&lt;br /&gt;
+Gotovo 5.000 godina nakon što je dobio sve moći egipatskih bogov</description>
+            <picturePath>assets\dc040e58-6555-4926-a2d5-e01779403bcf.jpg</picturePath>
+            <inCinemaFrom>20.10.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="51">
+            <title>Crni Adam 4DX</title>
+            <originalName>Black Adam 4DX</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/crni-adam-4dx/8288//1</link>
+            <director id="26">
+                <personname>Jaume Collet-Serra</personname>
+            </director>
+            <actors>
+                <actor id="53">
+                    <personname>Dwayne Johnson</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura, SF</genre>
+            <description>DC i Warner Bros. predstavljaju novog antiheroja čiju će glavnu ulogu preuzeti legendarni The Rock. Crni Adam je Džonsonov veliki projekt koji svaki glumac doživi jednom u životu.&lt;br /&gt;
+Gotovo 5.000 godina nakon što je dobio sve moći egipatskih bogov</description>
+            <picturePath>assets\3ffae212-dde6-46bc-a7fb-df12f3a00328.jpg</picturePath>
+            <inCinemaFrom>20.10.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="52">
+            <title>Đavolji plen</title>
+            <originalName>Prey for the Devil</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/djavolji-plen/8303//1</link>
+            <director id="27">
+                <personname>Daniel Stamm</personname>
+            </director>
+            <actors>
+                <actor id="54">
+                    <personname>Virginia Madsen</personname>
+                </actor>
+            </actors>
+            <genre>horor</genre>
+            <description>Neki su rođeni za egzorcizam.&lt;br /&gt;
+Katolička crkva se bori protiv globalnog porasta opsednutosti demonima otvaranjem škole za obuku sveštenika koji će provoditi obrede egzorcizma. Na ovom duhovnom bojnom polju pojavljuje se neobičan ratnik: mlada ča</description>
+            <picturePath>assets\056e3ce8-7f90-4591-8e56-da30f2b9b579.jpg</picturePath>
+            <inCinemaFrom>20.10.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="53">
+            <title>Đavolji plijen</title>
+            <originalName>Prey for the Devil</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/djavolji-plijen/8296//1</link>
+            <director id="27">
+                <personname>Daniel Stamm</personname>
+            </director>
+            <actors>
+                <actor id="54">
+                    <personname>Virginia Madsen</personname>
+                </actor>
+            </actors>
+            <genre>horor</genre>
+            <description>Neki su rođeni za egzorcizam.&lt;br /&gt;
+Katolička se crkva bori protiv globalnog porasta opsjednutosti demonima otvaranjem škole za obuku svećenika koji će provoditi obrede egzorcizma. Na ovom duhovnom bojnom polju pojavljuje se neobičan ratnik: mlada re</description>
+            <picturePath>assets\ad4bcb24-7e2c-4226-8d56-8be43b13fd16.jpg</picturePath>
+            <inCinemaFrom>20.10.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="54">
+            <title>Black Panther: Wakanda Zauvijek</title>
+            <originalName>Black Panther: Wakanda Forever</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/black-panther-wakanda-zauvijek/8278//1</link>
+            <director id="28">
+                <personname>Ryan Coogler</personname>
+            </director>
+            <actors>
+                <actor id="55">
+                    <personname>Martin Freeman</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura</genre>
+            <description>Nastavak filma Black Panther iz 2018. godine koji je diljem svijeta zaradio preko $1.34 milijarde dolara. Film je oduševio kritičare i publiku, a na Rotten Tomatoes drži 96%. Uz to, film je osvojio i tri Oscara, za najbolju originalnu glazbu, najbolj</description>
+            <picturePath>assets\07823528-ab8f-4f13-9daa-fd5d06208459.jpg</picturePath>
+            <inCinemaFrom>10.11.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="55">
+            <title>Black Panther: Wakanda Zauvijek 3D</title>
+            <originalName>Black Panther: Wakanda Forever 3D</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/black-panther-wakanda-zauvijek-3d/8279//1</link>
+            <director id="28">
+                <personname>Ryan Coogler</personname>
+            </director>
+            <actors>
+                <actor id="55">
+                    <personname>Martin Freeman</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura</genre>
+            <description>Nastavak filma Black Panther iz 2018. godine koji je diljem svijeta zaradio preko $1.34 milijarde dolara. Film je oduševio kritičare i publiku, a na Rotten Tomatoes drži 96%. Uz to, film je osvojio i tri Oscara, za najbolju originalnu glazbu, najbolj</description>
+            <picturePath>assets\0a1e6d79-6d5b-4f39-bedb-a75afc35cfe7.jpg</picturePath>
+            <inCinemaFrom>10.11.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="56">
+            <title>Black Panther: Wakanda Zauvijek 3D 4DX</title>
+            <originalName>Black Panther: Wakanda Forever 3D 4DX</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/black-panther-wakanda-zauvijek-3d-4dx/8280//1</link>
+            <director id="28">
+                <personname>Ryan Coogler</personname>
+            </director>
+            <actors>
+                <actor id="55">
+                    <personname>Martin Freeman</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura</genre>
+            <description>Nastavak filma Black Panther iz 2018. godine koji je diljem svijeta zaradio preko $1.34 milijarde dolara. Film je oduševio kritičare i publiku, a na Rotten Tomatoes drži 96%. Uz to, film je osvojio i tri Oscara, za najbolju originalnu glazbu, najbolj</description>
+            <picturePath>assets\693cbc6e-209a-4e32-a192-fef41007df0a.jpg</picturePath>
+            <inCinemaFrom>10.11.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="57">
+            <title>Black Panther: Wakanda Zauvijek 3D IMAX</title>
+            <originalName>Black Panther: Wakanda Forever 3D IMAX</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/black-panther-wakanda-zauvijek-3d-imax/8281//1</link>
+            <director id="28">
+                <personname>Ryan Coogler</personname>
+            </director>
+            <actors>
+                <actor id="55">
+                    <personname>Martin Freeman</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura</genre>
+            <description>Nastavak filma Black Panther iz 2018. godine koji je diljem svijeta zaradio preko $1.34 milijarde dolara. Film je oduševio kritičare i publiku, a na Rotten Tomatoes drži 96%. Uz to, film je osvojio i tri Oscara, za najbolju originalnu glazbu, najbolj</description>
+            <picturePath>assets\04389dec-8f81-4703-9e90-32f6fa14cb94.jpg</picturePath>
+            <inCinemaFrom>10.11.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="58">
+            <title>Šesti autobus</title>
+            <originalName>Šesti autobus</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/sesti-autobus/8297//1</link>
+            <director id="29">
+                <personname>Eduard Galić</personname>
+            </director>
+            <actors>
+                <actor id="56">
+                    <personname>Zala Đurić</personname>
+                </actor>
+            </actors>
+            <genre>drama</genre>
+            <description>Mlada Amerikanka pokušava pronaći čovjeka iz svoje prošlosti, koji nikad neće biti pronađen, i to tijekom najvećeg sukoba na europskom tlu od Drugog svjetskog rata – bitke za Vukovar. Riječ je o potrazi za identitetom i istinom na mjestu gdje je isti</description>
+            <picturePath>assets\9ec90191-c0ae-431c-ac8b-73a9f21e6d8a.jpg</picturePath>
+            <inCinemaFrom>17.11.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="59">
+            <title>Avatar: Put vode</title>
+            <originalName>Avatar: The Way of Water</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/avatar-put-vode/8207//1</link>
+            <director id="30">
+                <personname>James Cameron</personname>
+            </director>
+            <actors>
+                <actor id="57">
+                    <personname>Sam Worthington</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura, SF</genre>
+            <description>Radnja filma „Avatar: Put vode“ odvija se više od jednog desetljeća nakon događaja iz prvog dijela.&lt;br /&gt;
+Otkad je odlučio trajno prenijeti ljudsku svijest u svoje tijelo Avatara i postati novi vođa naroda Na’vi, Jake Sully živi sa svojom obitelji na</description>
+            <picturePath>assets\9e24aba9-67d0-48dc-945e-a0cefd9fd3e5.jpg</picturePath>
+            <inCinemaFrom>15.12.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="60">
+            <title>Avatar: Put vode</title>
+            <originalName>Avatar: The Way of Water</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/avatar-put-vode/8213//1</link>
+            <director id="30">
+                <personname>James Cameron</personname>
+            </director>
+            <actors>
+                <actor id="57">
+                    <personname>Sam Worthington</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura, SF</genre>
+            <description>Džejk Sali živi sa svojom porodicom na planeti Pandori. Kada se vrati poznati neprijatelj koji pokušava da ih uništi, Džejk i Nejtiri se udružuju sa vojskom Navi naroda kako bi zaštitili svoju planetu.&lt;/div&gt;</description>
+            <picturePath>assets\1ecb5064-282b-44a9-81ea-a9a3ffe2fd1d.jpg</picturePath>
+            <inCinemaFrom>15.12.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="61">
+            <title>Avatar: Put vode 3D</title>
+            <originalName>Avatar: The Way of Water 3D</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/avatar-put-vode-3d/8214//1</link>
+            <director id="30">
+                <personname>James Cameron</personname>
+            </director>
+            <actors>
+                <actor id="57">
+                    <personname>Sam Worthington</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura, SF</genre>
+            <description>Džejk Sali živi sa svojom porodicom na planeti Pandori. Kada se vrati poznati neprijatelj koji pokušava da ih uništi, Džejk i Nejtiri se udružuju sa vojskom Navi naroda kako bi zaštitili svoju planetu.&lt;/div&gt;</description>
+            <picturePath>assets\cea3f651-594a-46cf-b0d9-571106c9a40d.jpg</picturePath>
+            <inCinemaFrom>15.12.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="62">
+            <title>Avatar: Put vode 3D</title>
+            <originalName>Avatar: The Way of Water 3D</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/avatar-put-vode-3d/8208//1</link>
+            <director id="30">
+                <personname>James Cameron</personname>
+            </director>
+            <actors>
+                <actor id="57">
+                    <personname>Sam Worthington</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura, SF</genre>
+            <description>Radnja filma „Avatar: Put vode“ odvija se više od jednog desetljeća nakon događaja iz prvog dijela.&lt;br /&gt;
+Otkad je odlučio trajno prenijeti ljudsku svijest u svoje tijelo Avatara i postati novi vođa naroda Na’vi, Jake Sully živi sa svojom obitelji na</description>
+            <picturePath>assets\96273989-95c8-425b-88f8-f63eb6dc6b07.jpg</picturePath>
+            <inCinemaFrom>15.12.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="63">
+            <title>Avatar: Put vode 3D 4DX</title>
+            <originalName>Avatar: The Way of Water 3D 4DX</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/avatar-put-vode-3d-4dx/8209//1</link>
+            <director id="30">
+                <personname>James Cameron</personname>
+            </director>
+            <actors>
+                <actor id="57">
+                    <personname>Sam Worthington</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura, SF</genre>
+            <description>Radnja filma „Avatar: Put vode“ odvija se više od jednog desetljeća nakon događaja iz prvog dijela.&lt;br /&gt;
+Otkad je odlučio trajno prenijeti ljudsku svijest u svoje tijelo Avatara i postati novi vođa naroda Na’vi, Jake Sully živi sa svojom obitelji na</description>
+            <picturePath>assets\c24618b2-f3b5-4060-9aae-a056f9ebb420.jpg</picturePath>
+            <inCinemaFrom>15.12.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="64">
+            <title>Avatar: Put vode 3D 4DX</title>
+            <originalName>Avatar: The Way of Water 3D 4DX</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/avatar-put-vode-3d-4dx/8215//1</link>
+            <director id="30">
+                <personname>James Cameron</personname>
+            </director>
+            <actors>
+                <actor id="57">
+                    <personname>Sam Worthington</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura, SF</genre>
+            <description>Džejk Sali živi sa svojom porodicom na planeti Pandori. Kada se vrati poznati neprijatelj koji pokušava da ih uništi, Džejk i Nejtiri se udružuju sa vojskom Navi naroda kako bi zaštitili svoju planetu.&lt;/div&gt;</description>
+            <picturePath>assets\67c2084a-45a1-4ee4-9b68-2cc74db24bb9.jpg</picturePath>
+            <inCinemaFrom>15.12.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="65">
+            <title>Avatar: Put vode 3D IMAX</title>
+            <originalName>Avatar: The Way of Water 3D IMAX</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/avatar-put-vode-3d-imax/8210//1</link>
+            <director id="30">
+                <personname>James Cameron</personname>
+            </director>
+            <actors>
+                <actor id="57">
+                    <personname>Sam Worthington</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura, SF</genre>
+            <description>Radnja filma „Avatar: Put vode“ odvija se više od jednog desetljeća nakon događaja iz prvog dijela.&lt;br /&gt;
+Otkad je odlučio trajno prenijeti ljudsku svijest u svoje tijelo Avatara i postati novi vođa naroda Na’vi, Jake Sully živi sa svojom obitelji na</description>
+            <picturePath>assets\0aa2c0e9-c7ec-47ba-a36b-30054ddc724e.jpg</picturePath>
+            <inCinemaFrom>15.12.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="66">
+            <title>Shazam! Bijes Bogova</title>
+            <originalName>Shazam! Fury of the Gods</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/shazam-bijes-bogova/8282//1</link>
+            <director id="31">
+                <personname>David F. Sandberg</personname>
+            </director>
+            <actors>
+                <actor id="58">
+                    <personname>Zachary Levi,Helen Mirren</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura</genre>
+            <description>Ulogu naslovnog heroja u Shazamu 2 će ponovno imati Zachary Levi, a očekuje se da će mu se pridružiti i Asher Angel i Jack Dylan Grazer. David F. Sandberg vratit će se režiji nastavka nakon što je prvi film zaradio $365 milijuna širom svijeta. Henry </description>
+            <picturePath>assets\254182b8-dabe-4335-8010-18195f37fbfc.jpg</picturePath>
+            <inCinemaFrom>22.12.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="67">
+            <title>Shazam! Bijes Bogova 3D IMAX</title>
+            <originalName>Shazam! Fury of the Gods 3D IMAX</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/shazam-bijes-bogova-3d-imax/8285//1</link>
+            <director id="31">
+                <personname>David F. Sandberg</personname>
+            </director>
+            <actors>
+                <actor id="58">
+                    <personname>Zachary Levi,Helen Mirren</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura</genre>
+            <description>Ulogu naslovnog heroja u Shazamu 2 će ponovno imati Zachary Levi, a očekuje se da će mu se pridružiti i Asher Angel i Jack Dylan Grazer. David F. Sandberg vratit će se režiji nastavka nakon što je prvi film zaradio $365 milijuna širom svijeta. Henry </description>
+            <picturePath>assets\9ea3995a-f61e-41d7-a5f9-525d687eafea.jpg</picturePath>
+            <inCinemaFrom>22.12.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="68">
+            <title>Šazam! Gnev Bogova</title>
+            <originalName>Shazam! Fury of the Gods</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/sazam-gnev-bogova/8334//1</link>
+            <director id="31">
+                <personname>David F. Sandberg</personname>
+            </director>
+            <actors>
+                <actor id="58">
+                    <personname>Zachary Levi,Helen Mirren</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura</genre>
+            <description>Ulogu naslovnog heroja u Šazamu 2 će ponovno imati Zakari Levi, a očekuje se da će mu se pridružiti i Ašer Ejndžl i Džek Dila Grejzer. David F. Sandberg vratiće se režiji nastavka nakon što je prvi film zaradio $365 miliona širom sveta. Henri Gajden </description>
+            <picturePath>assets\e3ae9474-daf9-4d1e-97c1-799f371f9b66.jpg</picturePath>
+            <inCinemaFrom>22.12.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+        <movie id="69">
+            <title>Šazam! Gnev Bogova 4DX</title>
+            <originalName>Shazam! Fury of the Gods 4DX</originalName>
+            <length>0</length>
+            <link>https://www.blitz-cinestar.hr/root/sazam-gnev-bogova-4dx/8335//1</link>
+            <director id="31">
+                <personname>David F. Sandberg</personname>
+            </director>
+            <actors>
+                <actor id="58">
+                    <personname>Zachary Levi,Helen Mirren</personname>
+                </actor>
+            </actors>
+            <genre>akcija, avantura</genre>
+            <description>Ulogu naslovnog heroja u Šazamu 2 će ponovno imati Zakari Levi, a očekuje se da će mu se pridružiti i Ašer Ejndžl i Džek Dila Grejzer. David F. Sandberg vratiće se režiji nastavka nakon što je prvi film zaradio $365 miliona širom sveta. Henri Gajden </description>
+            <picturePath>assets\33f601ed-db91-4850-b455-2d3078129459.jpg</picturePath>
+            <inCinemaFrom>22.12.2022</inCinemaFrom>
+            <published>2022-08-02T06:45:07</published>
+        </movie>
+    </movies>
+</moviesarchive>
